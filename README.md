@@ -30,9 +30,3 @@ Communication is a basic human right. This system is built to assist individuals
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/Sign-Language-Recognition-System.git
-   cd Sign-Language-Recognition-System
