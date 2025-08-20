@@ -1,5 +1,3 @@
-# Sign-Language-Recognition-System-for-Empowering-Individuals-with-Disabilities
-
 # 🤟 Sign Language Recognition System for Empowering Individuals with Disabilities
 
 This project is a **Sign Language Recognition System** designed to support and empower individuals with hearing and speech impairments. By using computer vision and deep learning techniques, the system detects and interprets hand gestures representing sign language in real-time.
